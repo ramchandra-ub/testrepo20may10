@@ -1,0 +1,13 @@
+{
+    "assetName": "digitalasset",
+    "description": "this is an ml model",
+    "topics": [
+        "ens-machinelearning",
+        "mlmodel1",
+        "model2",
+        "ens-asset"
+    ],
+    "associations": [
+        "github.com/test"
+    ]
+}
